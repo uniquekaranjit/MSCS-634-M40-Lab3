@@ -50,6 +50,6 @@ The main goals of this lab were to:
 
 
 
-## ✅ Conclusion
+## Conclusion
 K-Means proved to be a better fit for this dataset due to its accuracy and simplicity, though K-Medoids could be useful in noisier or less uniform datasets. This lab provided hands-on experience in evaluating clustering algorithms and understanding how to interpret their performance.
 
